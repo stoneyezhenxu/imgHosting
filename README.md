@@ -1,2 +1,2 @@
 # imgHosting
-imgHosting with PicGo for Website or Typora
+imgHosting with PicGo for Website and Typora
